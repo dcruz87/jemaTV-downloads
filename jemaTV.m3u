@@ -15,8 +15,6 @@ https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 https://jmp2.uk/stvp-US4100032W9
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us@SD" tvg-logo="https://i.imgur.com/V6Kaqha.png" group-title="Sports - College (Multiple Sports)",ACC Digital Network (1080p)
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ACCNetwork.us@SD" tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Sports - College (Multiple Sports)",ACC Network (720p)
-http://23.239.31.26:8989/accnetwork/index.m3u8
 #EXTINF:-1 tvg-id="400000012" tvg-logo="https://canvas-lb.tubitv.com/opts/kRrxv36KIg9bPw==/8928da85-c7af-4da6-a0a1-9a32e3e5b2e8/CHgQeDoFMS4xLjlAAQ==" group-title="Sports - College (Multiple Sports)",ACCDN
 https://live-manifest.production-public.tubi.io/live/f1e8b38c-7c04-4630-9d0d-7636d492c6d6/playlist.m3u8
 #EXTINF:-1 tvg-id="US37000017A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US37000017A_20260421T143312SQUARE.png" group-title="Sports - College (Multiple Sports)",Big 12 Studios
@@ -55,8 +53,6 @@ https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 https://live-manifest.production-public.tubi.io/live/dd6d627f-f0f8-48bb-b627-7f7c4fceec37/playlist.m3u8
 #EXTINF:-1 tvg-id="400000294" tvg-logo="https://canvas-lb.tubitv.com/opts/yeAV3-c2XWfYzw==/e9cd4624-20d8-421b-b5ed-282769cf2f57/CHgQeDoFMS4xLjlAAQ==" group-title="Sports - Combat and Wrestling",Watch AEW
 https://live-manifest.production-public.tubi.io/live/512cbe42-c22e-40c8-90e3-7d62684f51a7/playlist.m3u8
-#EXTINF:-1 tvg-id="WWENetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/500px-WWE_Network_logo.svg.png" group-title="Sports - Combat and Wrestling",WWE Network (1080p)
-http://103.151.60.162:2122/play/a00p/index.m3u8?hls
 #EXTINF:-1 tvg-id="XFCTV.us@SD" tvg-logo="https://i.imgur.com/LcfzmG0.png" group-title="Sports - Combat and Wrestling",XFC TV (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2247
 #EXTINF:-1 tvg-id="Willow.us@SD" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Sports - Cricket",Willow (720p)
@@ -79,8 +75,6 @@ https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-45
 https://jmp2.uk/stvp-US34000040T
 #EXTINF:-1 tvg-id="0fc01f1136055d89bae495ba92eff445" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" group-title="Sports - General",FOX Sports
 https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports - General",Fox Sports 1 (720p)
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="613683" tvg-logo="https://canvas-lb.tubitv.com/opts/50bQ3M9R_pEUzg==/69e052e9-4264-45cf-93f6-6218f998abc4/CHgQeDoFMS4xLjlAAQ==" group-title="Sports - General",FOX Sports on Tubi
 https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us@SD" tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="Sports - General",FTF Sports (720p)
@@ -137,8 +131,6 @@ https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
 #EXTINF:-1 tvg-id="TVSWomenSports.us@SD" tvg-logo="https://i.imgur.com/8hC4PfF.png" group-title="Sports - General",TVS Women Sports (720p)
 https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
-#EXTINF:-1 tvg-id="TyCSportsUSA.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports - General",TyC Sports USA
-http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us@SD" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="Sports - General",Unbeaten (1080p)
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 #EXTINF:-1 tvg-id="US1400008DW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400008DW_20240910T003812SQUARE.png" group-title="Sports - General",Unbeaten Sports Channel
@@ -197,8 +189,6 @@ https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
 https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8
 #EXTINF:-1 tvg-id="US2600007WJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20261002T182011SQUARE.png" group-title="Sports - NFL",NFL Channel
 https://jmp2.uk/stvp-US2600007WJ
-#EXTINF:-1 tvg-id="NFLNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" group-title="Sports - NFL",NFL Network (720p)
-http://198.58.104.90:8989/nfl/index.m3u8
 #EXTINF:-1 tvg-id="400000008" tvg-logo="https://canvas-lb.tubitv.com/opts/8h7HYVpDz2amhw==/085bca04-c806-4a7f-bb0c-d38fe352f3e3/CHgQeDoFMS4xLjlAAQ==" group-title="Sports - NHL",NHL
 https://live-manifest.production-public.tubi.io/live/2cfb4368-6c7e-4075-bc1f-69f7141a8012/playlist.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us@SD" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="Sports - NHL",NHL Network (1080p)
@@ -257,16 +247,12 @@ https://jmp2.uk/stvp-USBD350002338
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst (720p)
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
-#EXTINF:-1 tvg-id="BabyFirst.us@Spanish" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst Spanish (1080p)
-http://168.196.127.137:6001/play/a06j/index.m3u8
 #EXTINF:-1 tvg-id="US1600011FY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1600011FY_20260915T035200SQUARE.png" group-title="Kids",Barney and Friends
 https://jmp2.uk/stvp-US1600011FY
 #EXTINF:-1 tvg-id="USBD3300012VX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300012VX_20250211T021653SQUARE.png" group-title="Kids",batteryPOP
 https://jmp2.uk/stvp-USBD3300012VX
 #EXTINF:-1 tvg-id="US9000032J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US9000032J_20260414T005522SQUARE.png" group-title="Kids",Blippi
 https://jmp2.uk/stvp-US9000032J
-#EXTINF:-1 tvg-id="Boomerang.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang (720p)
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="BratTV.us@SD" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="Kids",Brat TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
 #EXTINF:-1 tvg-id="USBD50000048H" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD50000048H_20260915T035121SQUARE.png" group-title="Kids",Caillou
@@ -303,14 +289,8 @@ https://jmp2.uk/rok-b5cde121f98257329346020e2a60295a.m3u8
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="US2900011CJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900011CJ_20260421T142205SQUARE.png" group-title="Kids",My Little Pony
 https://jmp2.uk/stvp-US2900011CJ
-#EXTINF:-1 tvg-id="NickJr.us@EastHD" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids",Nick Jr. (United States) East HD (720p)
-http://107.167.16.138/nickjr/index.m3u8?token=test
 #EXTINF:-1 tvg-id="USBA3000158L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20260421T141604SQUARE.png" group-title="Kids",Nick Pluto TV
 https://jmp2.uk/stvp-USBA3000158L
-#EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon (United States) (720p)
-http://198.58.104.90:8989/nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.us@East" tvg-logo="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png" group-title="Kids",Nicktoons (United States) (720p)
-http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="US2200007QG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200007QG_20260421T141947SQUARE.png" group-title="Kids",Ninja Kidz
 https://jmp2.uk/stvp-US2200007QG
 #EXTINF:-1 tvg-id="NinjaKidzTV.us@SD" tvg-logo="https://i.imgur.com/7EngqUi.png" group-title="Kids",Ninja Kidz TV (720p)
@@ -359,8 +339,6 @@ https://jmp2.uk/stvp-USBA2300001S8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="USBB1900004J9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20260414T005441SQUARE.png" group-title="Kids",Toon Goggles
 https://jmp2.uk/stvp-USBB1900004J9
-#EXTINF:-1 tvg-id="Tooncast.us@SD" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Kids",Tooncast (1080p)
-http://38.134.250.110:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="ToonGoggles.us@SD" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="Kids",ToonGoggles (720p)
 https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSHiTops.us@SD" tvg-logo="https://i.imgur.com/RiWg1IA.png" group-title="Kids",TVS Hi Tops (720p)
@@ -407,8 +385,6 @@ https://live-manifest.production-public.tubi.io/live/2d43684f-75a3-452c-85e2-b88
 https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.us@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png" group-title="News and Weather",CNN (1080p)
 https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNChile.cl@SD" tvg-logo="https://i.imgur.com/t4EXijz.png" group-title="News and Weather",CNN Chile (1080p)
-http://190.110.96.238:8000/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-id="DidgahTV.us@SD" tvg-logo="https://i.imgur.com/3SeAyBS.png" group-title="News and Weather",Didgah TV (576p)
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 #EXTINF:-1 tvg-id="EntertainmentTonight.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png" group-title="News and Weather",Entertainment Tonight (1080p)
@@ -427,8 +403,6 @@ https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="FreeSpeechTV.us@SD" tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="News and Weather",Free Speech TV (720p)
 https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8
-#EXTINF:-1 tvg-id="HLN.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/960px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="News and Weather",HLN (720p)
-http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1 tvg-id="HollyWire.us@SD" tvg-logo="https://i.imgur.com/oVNjFoj.png" group-title="News and Weather",HollyWire (720p)
 https://bozztv.com/hwotta/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="IraneFardaTV.uk@SD" tvg-logo="https://i.imgur.com/ixgcgZY.png" group-title="News and Weather",IraneFarda TV
@@ -465,8 +439,6 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e290958
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="OANPlus.us@SD" tvg-logo="https://i.imgur.com/T9VhMAD.png" group-title="News and Weather",OAN Plus (1080p)
 https://oan-plus-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png" group-title="News and Weather",One America News Network (720p)
-http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:-1 tvg-id="PayvandTV.us@SD" tvg-logo="https://i.imgur.com/A4gqEmG.png" group-title="News and Weather",Payvand TV (United States) (720p)
 https://tgn.bozztv.com/cus01/ucur1/Payvand/index.m3u8
 #EXTINF:-1 tvg-id="USBB1900002KF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900002KF_20260421T133826SQUARE.png" group-title="News and Weather",Real America's Voice
@@ -507,12 +479,6 @@ https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="USAJ4300005PJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300005PJ_20260120T230333SQUARE.png" group-title="News and Weather",Yahoo Finance
 https://jmp2.uk/stvp-USAJ4300005PJ
-#EXTINF:-1 tvg-id="Cinemax.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" group-title="Premium",Cinemax (United States) West (720p)
-http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
-#EXTINF:-1 tvg-id="CinemaxClassics.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Cinemax_Classics_Logo.png/960px-Cinemax_Classics_Logo.png" group-title="Premium",Cinemax Classics (1080p)
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:-1 tvg-id="CinemaxHits.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Cinemax_Hits_Logo.png/960px-Cinemax_Hits_Logo.png" group-title="Premium",Cinemax Hits (1080p)
-http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-id="HBO.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Premium",HBO (720p)
 http://tvsen7.aynascope.net/hbo/index.m3u8
 #EXTINF:-1 tvg-id="HBOHits.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png" group-title="Premium",HBO Hits (720p)
